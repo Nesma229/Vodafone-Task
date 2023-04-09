@@ -1,0 +1,8 @@
+org\example\StepDefinitions\ShoppingSteps.class
+org\example\StepDefinitions\Hooks.class
+org\example\pages\CheckOutPage.class
+org\example\pages\BasketPage.class
+org\example\pages\HomePage.class
+org\example\runners\Runner.class
+org\example\pages\ApplePage.class
+org\example\pages\SelectedProductPage.class
